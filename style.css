@@ -1,0 +1,27 @@
+*{
+    background-color: #fff;
+}
+.inicio{
+    text-align: center;
+    background-color: #fff;
+}
+.foto1{
+    justify-content: flex-end;
+    
+}
+
+.ordem{
+    justify-content: space-between;
+    flex-wrap:nowrap
+}
+
+.container{
+    display: flex;
+    width: 100px;
+}
+.align{
+    text-align: justify;
+}
+.pt{
+    background-color: #df835f;
+}
